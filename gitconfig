@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ali648@live.com
+	name = Muhammad Ali
